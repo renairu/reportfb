@@ -4,7 +4,7 @@
 #########################################################
 # Name           : Facebook Auto Report <cookie method> #
 # File           : report.py                            #
-# Author         : DulLah                               #
+# Author         : renairu                               #
 # Github         : https://github.com/renairu             #
 # Facebook       : https://www.facebook.com/renalawaw      #
 # Telegram       : https://t.me/jemb0t                 #
