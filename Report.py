@@ -1,14 +1,13 @@
-#!usr/bin/python2.7
-# coding=utf-8
+
 
 #########################################################
-# Name           : Facebook Auto Report <cookie method> #
-# File           : report.py                            #
+# Name           : Facebook Auto Report <cookie method>  #
+# File           : report.py                             #
 # Author         : renairu                               #
-# Github         : https://github.com/renairu             #
-# Facebook       : https://www.facebook.com/renalawaw      #
-# Telegram       : https://t.me/jemb0t                 #
-# Python version : 2.7                                  #
+# Github         : https://github.com/renairu            #
+# Facebook       : https://www.facebook.com/renalawaw    #
+# Telegram       : https://t.me/jemb0t                   #
+# Python version : 2.7                                   #
 #########################################################
 
 import requests, os, sys, re
